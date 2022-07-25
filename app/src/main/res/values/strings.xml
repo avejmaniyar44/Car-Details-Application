@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Details</string>
+    <string name="spl_txt">RC,Challan,Insurance &amp;more</string>
+    <string name="enter_vehicle_number_here">Enter Vehicle Number Here...</string>
+    <string name="petrol">Petrol</string>
+    <string name="diesel">Diesel</string>
+    <string name="stats">Fuel Price</string>
+    <string name="Resale">Check Resale Value</string>
+    <string name="year">Select Year</string>
+    <string name="engine">Select Engine Type</string>
+</resources>
